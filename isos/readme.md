@@ -13,9 +13,7 @@ Each PISO is a folder containing at minimum:
 
 Create a new folder inside `isos/`:
 
-isos/
-└── my_os/
-└── main.py
+isos/my_os/main.py
 
 
 Example `main.py`:
