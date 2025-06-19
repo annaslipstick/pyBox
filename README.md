@@ -41,7 +41,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+```
 ## License
 
 PyBox is available under the MIT License for personal, educational, and non-commercial use. Feel free to share, modify, and enjoy it freely — just don’t make money off it.
