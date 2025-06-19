@@ -1,5 +1,8 @@
-# Entry point for dummy os
-from kernel import boot
+import sys
+
+def main():
+    print("Hi from Dummy OS!")
+    sys.stdout.flush()
 
 if __name__ == "__main__":
-    boot()
+    main()
