@@ -10,6 +10,7 @@ Each PISO is a folder containing at minimum:
 - Any additional Python files, assets, or apps your OS needs.
 
 ### Minimal Example
+If unsure, check the dummy os folder.
 
 Create a new folder inside `isos/`:
 
