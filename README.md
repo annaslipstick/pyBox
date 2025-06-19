@@ -1,4 +1,4 @@
-# PyBox — The Anarchist's Python VM Manager
+ PyBox — The Anarchist's Python VM Manager
 
 Forget your bloated, corporate-grade hypervisors. PyBox is the raw, unfiltered gateway to unleashing Python-powered virtual realms. No flashy GUIs, no internet dependency, just pure, unapologetic control over your custom-made Python OS “PISOs” — sandboxed, isolated, and ready to bend reality on your command.
 
@@ -26,6 +26,21 @@ PyBox is a minimalist Python VM manager designed to launch and manage your own c
 PyBox gives you raw, unrestricted control to build anything from simple kernels to full desktop environments — all in pure Python.
 
 No dependencies. No bloat. Just your code, your rules.
+
+## Quick Start Example
+
+Here’s a barebones example to get your first PISO up and running:
+
+1. Create a folder under `isos/` called `my_first_piso`  
+2. Inside it, create a file named `main.py` with this code:
+
+```python
+def main():
+    print("Welcome to My First PISO!")
+    input("Press Enter to exit...")
+
+if __name__ == "__main__":
+    main()
 
 ## License
 
