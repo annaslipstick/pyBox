@@ -1,0 +1,15 @@
+{
+  "pyos": {
+    "name": "PyOS",
+    "author": "You",
+    "description": "Python-based graphical OS",
+    "ram": 128,
+    "cpu": 1
+  },
+  "hello_os": {
+    "name": "HelloOS",
+    "description": "Minimal demo OS",
+    "ram": 64,
+    "cpu": 1
+  }
+}

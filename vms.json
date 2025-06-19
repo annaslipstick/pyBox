@@ -1,0 +1,8 @@
+{
+    "dummy os": {
+        "path": "isos/dummy os/main.py",
+        "description": "My custom Python OS",
+        "ram": 64,
+        "cpu": 1
+    }
+}
